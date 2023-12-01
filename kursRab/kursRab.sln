@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kursRab", "kursRab\kursRab.csproj", "{FE5688DC-1208-4502-854D-8DE82440060C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE5688DC-1208-4502-854D-8DE82440060C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5688DC-1208-4502-854D-8DE82440060C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5688DC-1208-4502-854D-8DE82440060C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5688DC-1208-4502-854D-8DE82440060C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D6D0806-B2C0-4606-833B-9EA4E77FF933}
+	EndGlobalSection
+EndGlobal

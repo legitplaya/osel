@@ -1,0 +1,10 @@
+C:\Users\ip521-20\source\repos\Kollege\Kollege\bin\Debug\Kollege.exe.config
+C:\Users\ip521-20\source\repos\Kollege\Kollege\bin\Debug\Kollege.exe
+C:\Users\ip521-20\source\repos\Kollege\Kollege\bin\Debug\Kollege.pdb
+C:\Users\ip521-20\source\repos\Kollege\Kollege\obj\Debug\Kollege.csprojAssemblyReference.cache
+C:\Users\ip521-20\source\repos\Kollege\Kollege\obj\Debug\Kollege.Form1.resources
+C:\Users\ip521-20\source\repos\Kollege\Kollege\obj\Debug\Kollege.Properties.Resources.resources
+C:\Users\ip521-20\source\repos\Kollege\Kollege\obj\Debug\Kollege.csproj.GenerateResource.cache
+C:\Users\ip521-20\source\repos\Kollege\Kollege\obj\Debug\Kollege.csproj.CoreCompileInputs.cache
+C:\Users\ip521-20\source\repos\Kollege\Kollege\obj\Debug\Kollege.exe
+C:\Users\ip521-20\source\repos\Kollege\Kollege\obj\Debug\Kollege.pdb

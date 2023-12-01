@@ -1,0 +1,13 @@
+C:\Users\ip521-20\source\repos\kursRab\kursRab\bin\Debug\kursRab.exe.config
+C:\Users\ip521-20\source\repos\kursRab\kursRab\bin\Debug\kursRab.exe
+C:\Users\ip521-20\source\repos\kursRab\kursRab\bin\Debug\kursRab.pdb
+C:\Users\ip521-20\source\repos\kursRab\kursRab\bin\Debug\MaterialSkin.dll
+C:\Users\ip521-20\source\repos\kursRab\kursRab\obj\Debug\kursRab.csprojAssemblyReference.cache
+C:\Users\ip521-20\source\repos\kursRab\kursRab\obj\Debug\kursRab.Form1.resources
+C:\Users\ip521-20\source\repos\kursRab\kursRab\obj\Debug\kursRab.Properties.Resources.resources
+C:\Users\ip521-20\source\repos\kursRab\kursRab\obj\Debug\kursRab.csproj.GenerateResource.cache
+C:\Users\ip521-20\source\repos\kursRab\kursRab\obj\Debug\kursRab.csproj.CoreCompileInputs.cache
+C:\Users\ip521-20\source\repos\kursRab\kursRab\obj\Debug\kursRab.csproj.CopyComplete
+C:\Users\ip521-20\source\repos\kursRab\kursRab\obj\Debug\kursRab.exe
+C:\Users\ip521-20\source\repos\kursRab\kursRab\obj\Debug\kursRab.pdb
+C:\Users\ip521-20\source\repos\kursRab\kursRab\obj\Debug\kursRab.Form2.resources
